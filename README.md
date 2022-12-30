@@ -1,6 +1,13 @@
 ## Hi there 👋, I am **Ziad**, A **Desktop Software Developer** from **Egypt**!
 I am worldwidely known as **Insertx2k Dev** or **Mr.X** for my project **Temp_Cleaner GUI**, and **Ziad** is just my real first name
 
+- 🔭 I’m currently working on [StrangerOnMyPC](https://github.com/InsertX2k/StrangerOnMyPC), [Temp_Cleaner GUI](https://github.com/InsertX2k/temp_cleaner_gui), [megawake](https://github.com/InsertX2k/megawake), [Advanced QR Code Generator Tool](https://github.com/InsertX2k/qrcode-gen), [devrestart](https://github.com/InsertX2k/devrestart), [XPython](https://github.com/InsertX2k/xpython)
+
+- 😄 Pronouns: **He/Him (Male)**
+
+- 📫 How to reach me: **Send me a message on my Twitter or [Join My Discord Server](https://discord.com/invite/HUMsUpaaHn) and add me (I will be the one with the role "Ziad himself" or "Server Owner")**
+
+- 👯 I’m looking to collaborate on **making this world a better place for everyone.**
 
 ## Useful links:
 
@@ -21,17 +28,19 @@ I'm mostly active there, ***You will find me under a role named "Ziad himself" o
 
 * [My Twitter](https://twitter.com/insertplayztw) <br>
 If you want to view my Twitter profile.
+
+
 <!--
 **InsertX2k/InsertX2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+
+
 - ⚡ Fun fact: ...
 -->
