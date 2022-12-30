@@ -11,7 +11,7 @@ If you are interested in knowing me more.
 If you want to make your PC faster
 
 * [SourceForge](https://sourceforge.net/u/mrxofficial/profile/) <br>
-If you want to see or download all the Software I wrote
+If you want to see or download all Software I wrote
 
 * [Support me](https://www.buymeacoffee.com/insertx2kdev) <br>
 Buy me a cup of coffee
