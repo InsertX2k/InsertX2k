@@ -29,6 +29,9 @@ I'm mostly active there, ***You will find me under a role named "Ziad himself" o
 * [My Twitter](https://twitter.com/insertplayztw) <br>
 If you want to view my Twitter profile.
 
+* [Defragment Windows Drive Script file](https://github.com/InsertX2k/useful-scripts/blob/main/defragWINDRV.bat) <br>
+Use Windows' built-in defragmentation tool more efficiently to optimize your Windows drive and reduce boot time <br>
+*(Useful, I personally use it every week during the scheduled weekly maintenance)*
 
 <!--
 **InsertX2k/InsertX2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
