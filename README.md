@@ -1,7 +1,7 @@
 ## Hi there 👋, I am **Ziad**, A **Desktop Software Developer** from **Egypt**!
 I am worldwidely known as **Insertx2k Dev** or **Mr.X** for my project **Temp_Cleaner GUI**, and **Ziad** is just my real first name
 
-- 🔭 I’m currently working on [StrangerOnMyPC](https://github.com/InsertX2k/StrangerOnMyPC), [scrbreak (Pronounced ScreenBreak)](https://github.com/InsertX2k/scrbreak), [Temp_Cleaner GUI](https://github.com/InsertX2k/temp_cleaner_gui), [megawake](https://github.com/InsertX2k/megawake), [Advanced QR Code Generator Tool](https://github.com/InsertX2k/qrcode-gen), [devrestart2 (previously devrestart)](https://github.com/InsertX2k/devrestart), [XPython](https://github.com/InsertX2k/xpython)
+- 🔭 I’m currently working on [StrangerOnMyPC](https://github.com/InsertX2k/StrangerOnMyPC), [scrbreak (Pronounced ScreenBreak)](https://github.com/InsertX2k/scrbreak), [Temp_Cleaner GUI](https://github.com/InsertX2k/temp_cleaner_gui), [Advanced Password Generator Tool (APG)](https://github.com/InsertX2k/apg), [megawake](https://github.com/InsertX2k/megawake), [Advanced QR Code Generator Tool](https://github.com/InsertX2k/qrcode-gen), [devrestart2 (previously devrestart)](https://github.com/InsertX2k/devrestart), [XPython](https://github.com/InsertX2k/xpython) (But [Temp_Cleaner GUI](https://github.com/InsertX2k/temp_cleaner_gui) is what taking most of my concentration)
 
 - 😄 Pronouns: **He/Him (Male)**
 
