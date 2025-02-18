@@ -15,7 +15,7 @@ I am worldwidely known as **Insertx2k Dev** or **Mr.X** for my project **Temp_Cl
 If you are interested in knowing me more.
 
 * [Download Temp_Cleaner GUI](https://insertx2k.github.io/temp_cleaner_gui) <br>
-If you want to make your PC faster
+If you want to clean up your PC by deleting unnecessary files
 
 * [SourceForge](https://sourceforge.net/u/mrxofficial/profile/) <br>
 If you want to see or download all Software I wrote
