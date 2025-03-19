@@ -26,8 +26,8 @@ Buy me a cup of coffee
 * [My Discord Server](https://discord.com/invite/HUMsUpaaHn) <br>
 I'm mostly active there, ***You will find me under a role named "Ziad himself" or "Server Owner"***
 
-* [My Twitter](https://twitter.com/insertplayztw) <br>
-If you want to view my Twitter profile.
+* [Official Bluesky](https://bsky.app/profile/insertplayzbsky.bsky.social) <br>
+If you want to view my Bluesky profile, I have moved from X (formerly twitter) to Bluesky.
 
 * [Facebook Page](https://www.facebook.com/insertx2kSoftware) <br>
 The official Facebook page for Ziad (Mr.X)'s Software.
