@@ -7,7 +7,7 @@ I am worldwidely known as **Insertx2k Dev** or **Mr.X** for my project **Temp_Cl
 
 - 📫 How to reach me: **Send me a message on my Twitter or [Join My Discord Server](https://discord.com/invite/HUMsUpaaHn) and add me (I will be the one with the role "Ziad himself" or "Server Owner")**
 
-- 👯 I’m looking to collaborate on **making this world a better place for everyone.**
+- 👯 I’m looking to collaborate on **developing useful open-source projects.**
 
 ## Useful links:
 
