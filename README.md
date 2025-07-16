@@ -1,7 +1,7 @@
 ## Hi there 👋, I am **Ziad**, A **Desktop Software Developer** from **Egypt**!
 I am worldwidely known as **Insertx2k Dev** or **Mr.X** for my project **Temp_Cleaner GUI**, and **Ziad** is just my real first name
 
-- 🔭 I’m currently working on [StrangerOnMyPC](https://github.com/InsertX2k/StrangerOnMyPC), [Temp_Cleaner GUI](https://github.com/InsertX2k/temp_cleaner_gui), [Advanced Password Generator Tool (APG)](https://github.com/InsertX2k/apg), [megawake](https://github.com/InsertX2k/megawake), [XPython](https://github.com/InsertX2k/xpython) (But [Temp_Cleaner GUI](https://github.com/InsertX2k/temp_cleaner_gui) is what taking most of my concentration)
+- 🔭 I’m currently working on [StrangerOnMyPC](https://github.com/InsertX2k/StrangerOnMyPC), [Temp_Cleaner GUI](https://github.com/InsertX2k/temp_cleaner_gui), [Advanced Password Generator Tool (APG)](https://github.com/InsertX2k/apg), [megawake](https://github.com/InsertX2k/megawake), [XPython](https://github.com/InsertX2k/xpython) (But [Temp_Cleaner GUI](https://github.com/InsertX2k/temp_cleaner_gui) is what I am mostly focusing on)
 
 - 😄 Pronouns: **He/Him (Male)**
 
